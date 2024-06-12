@@ -9,7 +9,7 @@ let seconds = document.querySelector(".se")
 
 
 
-const endDate = "20 June 2024  9:00 PM"
+const endDate = "20 June 2025  9:00 PM"
 
 
 
